@@ -22,3 +22,5 @@ This project presents a chrome browser extension which will be able to predict t
 ![image](https://user-images.githubusercontent.com/70109300/179913667-938d67ea-6d7a-45f3-83bf-64b3a1b78ef7.png)
 ![image](https://user-images.githubusercontent.com/70109300/179913699-cf7c781d-ecb6-4d97-b397-eb143567f85a.png)
 ![image](https://user-images.githubusercontent.com/70109300/179913728-04a43912-4896-45af-97c7-f78067682783.png)
+
+For future enhancements, we intend to build the chrome extension which will incorporate online learning so that new phishing attack patterns can easily be learned from latest dataset as and when it is available with latest features.
